@@ -6,7 +6,8 @@
         "Status": {
           "options": [
             "ToDo",
-            "InProgress"
+            "InProgress",
+            "Review"
           ]
         }
       },
@@ -65,8 +66,11 @@
               "InProgress": {
                 "weight": 2
               },
-              "Done": {
+              "Review": {
                 "weight": 3
+              },
+              "Done": {
+                "weight": 4
               }
             }
           },
