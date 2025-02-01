@@ -2,7 +2,13 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "Status": {
+          "options": [
+            "InProgress"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
@@ -22,7 +28,14 @@
               "path": {
                 "hide": true
               }
-            }
+            },
+            "orderFields": [
+              "name",
+              "Status",
+              "Author",
+              "Developer",
+              "Priority"
+            ]
           },
           "filter": {
             "conjunction": "and",
@@ -37,6 +50,35 @@
           "id": "253f97b3-8d98-4c24-a3e5-06a8f7e81bf0",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "Status",
+            "columns": {
+              "Idea": {
+                "weight": 0
+              },
+              "Done": {
+                "weight": 1
+              },
+              "InProgress": {
+                "weight": 2
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "d8c439da-dd03-4284-82f2-3ad36dc3433e",
+          "name": "ToDoBoard",
+          "type": "board"
         }
       ],
       "id": "9c0765a2-5b64-4748-9e5f-ebf368483617",
