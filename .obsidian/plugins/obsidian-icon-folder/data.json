@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcProject16",
       "FasDiagramProject"
     ],
     "recentlyUsedIconsSize": 5,
@@ -30,5 +31,5 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00.Проект": "FasDiagramProject"
+  "00.Проект": "OcProject16"
 }
