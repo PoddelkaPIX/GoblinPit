@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiGamepad2",
+      "OcTasklist16",
       "OcProject16",
       "FasDiagramProject"
     ],
@@ -31,5 +33,7 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "00.Проект": "OcProject16"
+  "00.Проект": "OcProject16",
+  "01.Управление": "OcTasklist16",
+  "02.Геймдизайн": "LiGamepad2"
 }
