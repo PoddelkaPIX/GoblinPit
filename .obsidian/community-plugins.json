@@ -3,7 +3,7 @@
   "templater-obsidian",
   "obsidian-excalidraw-plugin",
   "calendar",
-  "obsidian-kanban",
   "obsidian-git",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-projects"
 ]

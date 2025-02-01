@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4446f274874e0897",
+        "id": "a0f599a3ebac72a0",
         "type": "tabs",
         "children": [
           {
-            "id": "24414e04cf2109a8",
+            "id": "cbef0dedc94643fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -190,12 +190,14 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-kanban:Создать новую доску": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-projects:Open projects": false
     }
   },
   "active": "0dbd1a27ec50bac5",
   "lastOpenFiles": [
-    "Добро пожаловать.md",
-    "Поэтапный план.md"
+    "Безымянная Kanban-доска.md",
+    "Поэтапный план.md",
+    "Добро пожаловать.md"
   ]
 }
