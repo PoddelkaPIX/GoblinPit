@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Корень.md",
+                "file": "Статистика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Корень"
+              "title": "Статистика"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Корень.md",
+                "file": "Статистика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Корень"
+              "title": "Статистика"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Корень.md",
+                "file": "Статистика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Корень"
+              "title": "Обратные ссылки для Статистика"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Корень.md",
+                "file": "Статистика.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Корень"
+              "title": "Исходящие ссылки из Статистика"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Корень.md",
+                "file": "Статистика.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Корень"
+              "title": "Структура Статистика"
             }
           },
           {
@@ -211,10 +211,11 @@
   },
   "active": "a38762d28fb50bfa",
   "lastOpenFiles": [
+    "01.Управление/01.Задачи/Без названия 2.md",
     "01.Управление/01.Задачи/Без названия 1.md",
-    "Корень.md",
-    "Шаблоны/Задача.md",
     "01.Управление/01.Задачи/Без названия.md",
+    "Статистика.md",
+    "Шаблоны/Задача.md",
     "01.Управление/1.Задачи/Без названия 1.md",
     "01.Управление",
     "02.Геймдизайн/Фракции",
