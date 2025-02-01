@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Задачи/Untitled.md",
+                "file": "Планирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Планирование"
+            }
+          },
+          {
+            "id": "a40112a9b716e809",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           },
           {
@@ -35,7 +45,8 @@
               "title": "Задача"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Задачи/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Untitled"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -127,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Задачи/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Untitled"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -156,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Задачи/Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Untitled"
+              "title": "Структура"
             }
           },
           {
@@ -208,13 +216,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3e0d7a875f1eae49",
+  "active": "a40112a9b716e809",
   "lastOpenFiles": [
-    "1.Задачи/Без названия.md",
     "1.Задачи/Untitled.md",
-    "Шаблоны/Задача.md",
-    "1.Задачи/asdad.md",
     "Планирование.md",
+    "Шаблоны/Задача.md",
+    "1.Задачи/Без названия.md",
+    "1.Задачи/asdad.md",
     "Разработчики/Роман.md",
     "Вложенные ресурсы",
     "Шаблоны",

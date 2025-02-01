@@ -17,7 +17,13 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
