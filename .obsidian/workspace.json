@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "03.Проект/Статистика.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Статистика.md",
+                "file": "Шаблоны/Задача.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Статистика"
+              "title": "Задача"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Статистика.md",
+                "file": "Шаблоны/Задача.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Статистика"
+              "title": "Обратные ссылки для Задача"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Статистика.md",
+                "file": "Шаблоны/Задача.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Статистика"
+              "title": "Исходящие ссылки из Задача"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Статистика.md",
+                "file": "Шаблоны/Задача.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Статистика"
+              "title": "Структура Задача"
             }
           },
           {
@@ -209,12 +209,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a38762d28fb50bfa",
+  "active": "0dbd1a27ec50bac5",
   "lastOpenFiles": [
+    "03.Проект",
+    "03.Проект/Статистика.md",
     "01.Управление/01.Задачи/Без названия 2.md",
     "01.Управление/01.Задачи/Без названия 1.md",
     "01.Управление/01.Задачи/Без названия.md",
-    "Статистика.md",
     "Шаблоны/Задача.md",
     "01.Управление/1.Задачи/Без названия 1.md",
     "01.Управление",
