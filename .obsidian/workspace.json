@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Корень.md",
+                "file": "Шаблоны/Задача.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Корень"
+              "title": "Задача"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Корень.md",
+                "file": "Шаблоны/Задача.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Корень"
+              "title": "Обратные ссылки для Задача"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Корень.md",
+                "file": "Шаблоны/Задача.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Корень"
+              "title": "Исходящие ссылки из Задача"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Корень.md",
+                "file": "Шаблоны/Задача.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Корень"
+              "title": "Структура Задача"
             }
           },
           {
@@ -236,10 +236,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "3e0d7a875f1eae49",
   "lastOpenFiles": [
-    "Шаблоны/Задача.md",
     "Корень.md",
+    "Шаблоны/Задача.md",
     "01.Управление/1.Задачи/Без названия.md",
     "01.Управление",
     "02.Геймдизайн/Фракции",
