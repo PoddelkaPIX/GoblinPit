@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "1.Задачи",
+          "path": "01.Управление/01.Задачи",
           "recursive": false
         }
       },
