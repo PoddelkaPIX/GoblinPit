@@ -39,10 +39,14 @@
             "id": "3e0d7a875f1eae49",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "Поэтапный план.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Поэтапный план"
             }
           }
         ],
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Поэтапный план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Поэтапный план"
             }
           },
           {
@@ -137,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Поэтапный план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Поэтапный план"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Поэтапный план.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Поэтапный план"
             }
           },
           {
@@ -216,13 +223,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "3e0d7a875f1eae49",
   "lastOpenFiles": [
     "Без названия",
-    "Маркетинг",
-    "Геймдизайн",
+    "Соц. сети",
+    "3.Маркетинг",
+    "2.Геймдизайн",
     "Идеи/Торговая площадка.md",
-    "Задачи",
+    "1.Задачи",
     "Без названия.md",
     "Поэтапный план.md",
     "Идеи",
