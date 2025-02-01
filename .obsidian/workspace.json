@@ -204,7 +204,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
-      "obsidian-kanban:Создать новую доску": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-projects:Open projects": false
     }
