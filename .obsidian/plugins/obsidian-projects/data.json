@@ -5,6 +5,7 @@
       "fieldConfig": {
         "Status": {
           "options": [
+            "ToDo",
             "InProgress"
           ]
         }
@@ -58,11 +59,14 @@
               "Idea": {
                 "weight": 0
               },
-              "Done": {
+              "ToDo": {
                 "weight": 1
               },
               "InProgress": {
                 "weight": 2
+              },
+              "Done": {
+                "weight": 3
               }
             }
           },
