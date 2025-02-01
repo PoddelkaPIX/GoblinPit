@@ -51,12 +51,14 @@
             "id": "62e3b82ca92e4c53",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Всякое/Вложенные ресурсы/Игровой цикл.md"
+                "file": "00.Проект/Концепция.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Игровой цикл"
+              "icon": "lucide-file",
+              "title": "Концепция"
             }
           }
         ],
@@ -232,14 +234,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "62e3b82ca92e4c53",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-01 22.37.00.excalidraw.md",
-    "Всякое/Вложенные ресурсы/Игровой цикл.md",
+    "Игровой цикл][100.md",
     "00.Проект/Концепция.md",
+    "00.Проект/Сборка.md",
+    "Всякое/Вложенные ресурсы/Игровой цикл.md",
+    "Excalidraw/Drawing 2025-02-01 22.37.00.excalidraw.md",
     "00.Проект/Анализ.md",
     "Excalidraw",
-    "00.Проект/Сборка.md",
     "00.Проект/Статистика.md",
     "00.Проект/Описание.md",
     "01.Управление/Контакты.md",
