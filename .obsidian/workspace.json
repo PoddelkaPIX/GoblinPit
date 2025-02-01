@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Поэтапный план.md",
+                "file": "Идеи/Торговая площадка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поэтапный план"
+              "title": "Торговая площадка"
+            }
+          },
+          {
+            "id": "3e0d7a875f1eae49",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Поэтапный план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поэтапный план"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -128,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Поэтапный план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Поэтапный план"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -157,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Поэтапный план.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Поэтапный план"
+              "title": "Структура"
             }
           },
           {
@@ -209,9 +216,13 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "aaa10a523b866bb4",
+  "active": "3e0d7a875f1eae49",
   "lastOpenFiles": [
+    "Идеи/Торговая площадка.md",
+    "Задачи",
+    "Без названия.md",
     "Поэтапный план.md",
+    "Идеи",
     "Безымянная Kanban-доска.md",
     "Добро пожаловать.md"
   ]
