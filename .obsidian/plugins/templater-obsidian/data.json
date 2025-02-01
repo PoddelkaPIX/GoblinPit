@@ -19,8 +19,8 @@
       "template": "Шаблоны/Задача.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Всякое/Команда",
+      "template": "Всякое/Шаблоны/Работяга.md"
     }
   ],
   "enable_file_templates": false,
