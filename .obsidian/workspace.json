@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разработчики/Роман.md",
+                "file": "Планирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Роман"
+              "title": "Планирование"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разработчики/Роман.md",
+                "file": "Планирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Роман"
+              "title": "Обратные ссылки для Планирование"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разработчики/Роман.md",
+                "file": "Планирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Роман"
+              "title": "Исходящие ссылки из Планирование"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Разработчики/Роман.md",
+                "file": "Планирование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Роман"
+              "title": "Структура Планирование"
             }
           },
           {
@@ -211,10 +211,10 @@
   },
   "active": "0dbd1a27ec50bac5",
   "lastOpenFiles": [
+    "Разработчики/Роман.md",
     "Вложенные ресурсы",
     "Шаблоны",
     "Разработчики/Алексей.md",
-    "Разработчики/Роман.md",
     "Планирование.md",
     "Разработчики",
     "Поэтапный план.md",
