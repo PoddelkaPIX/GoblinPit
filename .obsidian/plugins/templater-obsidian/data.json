@@ -17,6 +17,10 @@
     {
       "folder": "01.Управление/01.Задачи",
       "template": "Шаблоны/Задача.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,
