@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Поэтапный план"
             }
+          },
+          {
+            "id": "aaa10a523b866bb4",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Поэтапный план.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Поэтапный план"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -113,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Поэтапный план.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Поэтапный план"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -142,13 +151,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Поэтапный план.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Поэтапный план"
+              "title": "Структура"
             }
           },
           {
@@ -194,10 +202,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "aaa10a523b866bb4",
   "lastOpenFiles": [
-    "Безымянная Kanban-доска.md",
     "Поэтапный план.md",
+    "Безымянная Kanban-доска.md",
     "Добро пожаловать.md"
   ]
 }

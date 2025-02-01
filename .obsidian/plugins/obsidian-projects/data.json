@@ -1,6 +1,42 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "253f97b3-8d98-4c24-a3e5-06a8f7e81bf0",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "9c0765a2-5b64-4748-9e5f-ebf368483617",
+      "name": "Tasks"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,
