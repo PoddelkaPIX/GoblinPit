@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планирование.md",
+                "file": "Шаблоны/Задача.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Планирование"
+              "title": "Задача"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Планирование.md",
+                "file": "Шаблоны/Задача.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Планирование"
+              "title": "Обратные ссылки для Задача"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Планирование.md",
+                "file": "Шаблоны/Задача.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Планирование"
+              "title": "Исходящие ссылки из Задача"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Планирование.md",
+                "file": "Шаблоны/Задача.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Планирование"
+              "title": "Структура Задача"
             }
           },
           {
@@ -209,13 +209,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "3e0d7a875f1eae49",
   "lastOpenFiles": [
+    "Планирование.md",
+    "Шаблоны/Задача.md",
     "Разработчики/Роман.md",
     "Вложенные ресурсы",
     "Шаблоны",
     "Разработчики/Алексей.md",
-    "Планирование.md",
     "Разработчики",
     "Поэтапный план.md",
     "Соц. сети",
