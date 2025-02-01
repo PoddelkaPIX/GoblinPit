@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01.Управление/Контакты.md",
+                "file": "00.Проект/Анализ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Контакты"
+              "title": "Анализ"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01.Управление/Контакты.md",
+                "file": "00.Проект/Анализ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Контакты"
+              "title": "Обратные ссылки для Анализ"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01.Управление/Контакты.md",
+                "file": "00.Проект/Анализ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Контакты"
+              "title": "Исходящие ссылки из Анализ"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01.Управление/Контакты.md",
+                "file": "00.Проект/Анализ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Контакты"
+              "title": "Структура Анализ"
             }
           },
           {
@@ -211,14 +211,15 @@
   },
   "active": "a38762d28fb50bfa",
   "lastOpenFiles": [
+    "00.Проект/Описание.md",
+    "00.Проект/Анализ.md",
+    "00.Проект/Статистика.md",
+    "01.Управление/Контакты.md",
     "01.Управление/02.Маркетинг/Стратегия продвижения.md",
     "01.Управление/02.Маркетинг/Манетизация.md",
-    "00.Проект/Статистика.md",
-    "00.Проект/Описание.md",
     "Всякое/Команда/Алексей.md",
     "Всякое/Команда/Роман.md",
     "Всякое/Шаблоны/Задача.md",
-    "01.Управление/Контакты.md",
     "Всякое",
     "02.Геймдизайн/Без названия",
     "02.Геймдизайн/Механики",
