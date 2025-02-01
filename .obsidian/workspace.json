@@ -39,10 +39,14 @@
             "id": "cf60d07506efa03d",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "markdown",
+              "state": {
+                "file": "1.Задачи/asdad.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "asdad"
             }
           }
         ],
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1.Задачи/asdad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для asdad"
             }
           },
           {
@@ -137,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1.Задачи/asdad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из asdad"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1.Задачи/asdad.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура asdad"
             }
           },
           {
@@ -218,6 +225,7 @@
   },
   "active": "cf60d07506efa03d",
   "lastOpenFiles": [
+    "1.Задачи/asdad.md",
     "Шаблоны/Задача.md",
     "Планирование.md",
     "Разработчики/Роман.md",
