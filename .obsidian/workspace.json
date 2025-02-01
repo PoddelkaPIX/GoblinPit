@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планирование.md",
+                "file": "Корень.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Планирование"
+              "title": "Корень"
             }
           },
           {
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.Задачи/Без названия.md",
+                "file": "01.Управление/1.Задачи/Без названия.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,8 +63,7 @@
               "title": "Задача"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.Задачи/Без названия.md",
+                "file": "Корень.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия"
+              "title": "Обратные ссылки для Корень"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.Задачи/Без названия.md",
+                "file": "Корень.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Без названия"
+              "title": "Исходящие ссылки из Корень"
             }
           },
           {
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.Задачи/Без названия.md",
+                "file": "Корень.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Корень"
             }
           },
           {
@@ -237,13 +236,14 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "3e0d7a875f1eae49",
   "lastOpenFiles": [
-    "Управление",
-    "2.Геймдизайн/Фракции",
     "Шаблоны/Задача.md",
+    "Корень.md",
+    "01.Управление/1.Задачи/Без названия.md",
+    "01.Управление",
+    "02.Геймдизайн/Фракции",
     "Планирование.md",
-    "1.Задачи/Без названия.md",
     "1.Задачи/Untitled.md",
     "1.Задачи/asdad.md",
     "Разработчики/Роман.md",
@@ -253,10 +253,10 @@
     "Разработчики",
     "Поэтапный план.md",
     "Соц. сети",
-    "3.Маркетинг",
-    "2.Геймдизайн",
+    "01.Управление/3.Маркетинг",
+    "02.Геймдизайн",
     "Идеи/Торговая площадка.md",
-    "1.Задачи",
+    "01.Управление/1.Задачи",
     "Идеи",
     "Безымянная Kanban-доска.md",
     "Добро пожаловать.md"
