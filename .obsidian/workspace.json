@@ -46,9 +46,21 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-01 22.30.03.excalidraw"
             }
+          },
+          {
+            "id": "62e3b82ca92e4c53",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-01 22.30.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-01 22.30.03.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,14 +232,15 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "97f14f8e52b0564b",
+  "active": "62e3b82ca92e4c53",
   "lastOpenFiles": [
-    "00.Проект/Концепция.md",
+    "Excalidraw/Drawing 2025-02-01 22.37.00.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 22.30.03.excalidraw.md",
+    "00.Проект/Концепция.md",
+    "00.Проект/Анализ.md",
     "Excalidraw",
     "00.Проект/Сборка.md",
     "00.Проект/Статистика.md",
-    "00.Проект/Анализ.md",
     "00.Проект/Описание.md",
     "01.Управление/Контакты.md",
     "01.Управление/02.Маркетинг/Стратегия продвижения.md",
