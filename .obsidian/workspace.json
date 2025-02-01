@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "Задача"
             }
+          },
+          {
+            "id": "cf60d07506efa03d",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шаблоны/Задача.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Задача"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -128,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шаблоны/Задача.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Задача"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -157,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шаблоны/Задача.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Задача"
+              "title": "Структура"
             }
           },
           {
@@ -209,10 +216,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "3e0d7a875f1eae49",
+  "active": "cf60d07506efa03d",
   "lastOpenFiles": [
-    "Планирование.md",
     "Шаблоны/Задача.md",
+    "Планирование.md",
     "Разработчики/Роман.md",
     "Вложенные ресурсы",
     "Шаблоны",
