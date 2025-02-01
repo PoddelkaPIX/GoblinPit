@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шаблоны/Задача.md",
+                "file": "Корень.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Задача"
+              "title": "Корень"
             }
           },
           {
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шаблоны/Задача.md",
+                "file": "Корень.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Задача"
+              "title": "Обратные ссылки для Корень"
             }
           },
           {
@@ -155,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шаблоны/Задача.md",
+                "file": "Корень.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Задача"
+              "title": "Исходящие ссылки из Корень"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шаблоны/Задача.md",
+                "file": "Корень.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Задача"
+              "title": "Структура Корень"
             }
           },
           {
@@ -238,8 +238,8 @@
   },
   "active": "3e0d7a875f1eae49",
   "lastOpenFiles": [
-    "Корень.md",
     "Шаблоны/Задача.md",
+    "Корень.md",
     "01.Управление/1.Задачи/Без названия.md",
     "01.Управление",
     "02.Геймдизайн/Фракции",
