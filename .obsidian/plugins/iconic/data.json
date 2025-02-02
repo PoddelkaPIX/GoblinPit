@@ -1,9 +1,9 @@
 {
   "biggerIcons": "mobile",
   "clickableIcons": "desktop",
-  "showAllFileIcons": false,
-  "showAllFolderIcons": false,
-  "minimalFolderIcons": false,
+  "showAllFileIcons": true,
+  "showAllFolderIcons": true,
+  "minimalFolderIcons": true,
   "showItemName": "desktop",
   "biggerSearchResults": "mobile",
   "maxSearchResults": 50,
@@ -16,17 +16,25 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
+    "emojiMode": true,
     "rulePage": "file"
   },
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "02.Геймдизайн": {
+      "icon": "lucide-gamepad-2",
+      "color": "cyan",
+      "unsynced": [
+        "5a75e0e334b1ca14"
+      ]
+    },
     "Всякое": {
       "icon": "lucide-paintbrush-vertical",
       "unsynced": [
         "5a75e0e334b1ca14"
-      ]
+      ],
+      "color": "gray"
     }
   },
   "bookmarkIcons": {},
