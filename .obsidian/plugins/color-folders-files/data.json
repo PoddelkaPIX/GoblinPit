@@ -4,9 +4,18 @@
       "textColor": "#79f1e9",
       "isBold": false,
       "applyToFiles": true,
-      "applyToSubfolders": true
+      "applyToSubfolders": true,
+      "backgroundColor": "#faffff"
     },
     "02.Геймдизайн/Системы": {
+      "isBold": true,
+      "isItalic": true
+    },
+    "02.Геймдизайн/Списки": {
+      "isBold": true,
+      "isItalic": true
+    },
+    "02.Геймдизайн/Виденье.md": {
       "isBold": true,
       "isItalic": true
     }
