@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сервер.md",
+                "file": "00.Проект/Моды/Custom NPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сервер"
+              "title": "Custom NPC"
             }
           }
         ],
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Сервер.md",
+                "file": "00.Проект/Моды/Custom NPC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Сервер"
+              "title": "Структура Custom NPC"
             }
           },
           {
@@ -263,12 +263,12 @@
   },
   "active": "39d26c19719d8fe3",
   "lastOpenFiles": [
+    "Сервер.md",
     "00.Проект/Моды/Custom NPC.md",
     "Всякое/Шаблоны/Мод.md",
     "Всякое/Шаблоны/Задача.md",
     "Всякое/Шаблоны/Работяга.md",
     "00.Проект/Моды/NoEmotecraft.md",
-    "Сервер.md",
     "00.Проект/Моды/Emotecraft.md",
     "02.Геймдизайн/Виденье.md",
     "fghfgh.md",
