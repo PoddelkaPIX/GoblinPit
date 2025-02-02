@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1_21_1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +157,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -276,7 +277,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d71df21cf4913207",
+  "active": "418fa6f95bb42a5f",
   "lastOpenFiles": [
     "Навигация.md",
     "02.Геймдизайн/Виденье.md",
