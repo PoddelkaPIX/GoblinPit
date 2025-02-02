@@ -1,5 +1,12 @@
 {
-  "styles": {},
+  "styles": {
+    "02.Геймдизайн": {
+      "textColor": "#79f1e9",
+      "isBold": true,
+      "applyToFiles": true,
+      "applyToSubfolders": true
+    }
+  },
   "presets": {},
   "presetOrder": []
 }
