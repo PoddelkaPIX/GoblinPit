@@ -97,7 +97,7 @@
               "state": {
                 "file": "00.Проект/Моды/Simple Voice Chat.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Simple Voice Chat"
