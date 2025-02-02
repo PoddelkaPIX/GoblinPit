@@ -136,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1_21_1",
+                "query": "tag:#1_16_5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -277,7 +277,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "418fa6f95bb42a5f",
+  "active": "751326486dbcf0d8",
   "lastOpenFiles": [
     "Навигация.md",
     "02.Геймдизайн/Виденье.md",
