@@ -23,8 +23,8 @@
       "template": "Всякое/Шаблоны/Работяга.md"
     },
     {
-      "folder": "ш",
-      "template": ""
+      "folder": "00.Проект/Моды",
+      "template": "Всякое/Шаблоны/Мод.md"
     }
   ],
   "enable_file_templates": false,

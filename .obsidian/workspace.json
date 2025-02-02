@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Шаблоны/Мод.md",
+                "file": "00.Проект/Моды/Custom NPC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Мод"
+              "title": "Custom NPC"
             }
           }
         ],
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Всякое/Шаблоны/Мод.md",
+                "file": "00.Проект/Моды/Custom NPC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Мод"
+              "title": "Структура Custom NPC"
             }
           },
           {
@@ -263,8 +263,8 @@
   },
   "active": "39d26c19719d8fe3",
   "lastOpenFiles": [
-    "00.Проект/Моды/Custom NPC.md",
     "Всякое/Шаблоны/Мод.md",
+    "00.Проект/Моды/Custom NPC.md",
     "Всякое/Шаблоны/Задача.md",
     "Всякое/Шаблоны/Работяга.md",
     "00.Проект/Моды/NoEmotecraft.md",
