@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Проект/Моды/NoEmotecraft.md",
+                "file": "00.Проект/Моды/Emotecraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NoEmotecraft"
+              "title": "Emotecraft"
             }
           }
         ],
@@ -196,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00.Проект/Моды/NoEmotecraft.md",
+                "file": "00.Проект/Моды/Emotecraft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из NoEmotecraft"
+              "title": "Исходящие ссылки из Emotecraft"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Проект/Моды/NoEmotecraft.md",
+                "file": "00.Проект/Моды/Emotecraft.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура NoEmotecraft"
+              "title": "Структура Emotecraft"
             }
           },
           {
