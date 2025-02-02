@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-02 10.40.46.excalidraw.md",
+                "file": "Навигация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Drawing 2025-02-02 10.40.46.excalidraw"
+              "title": "Структура Навигация"
             }
           },
           {
@@ -262,6 +262,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "iconic:Открыть свод правил": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,

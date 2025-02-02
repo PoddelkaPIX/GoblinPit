@@ -21,7 +21,14 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {},
+  "fileIcons": {
+    "Всякое": {
+      "icon": "lucide-paintbrush-vertical",
+      "unsynced": [
+        "5a75e0e334b1ca14"
+      ]
+    }
+  },
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
@@ -33,8 +40,8 @@
       "match": "all",
       "conditions": [
         {
-          "source": "name",
-          "operator": "contains"
+          "source": "tree",
+          "operator": "is"
         }
       ],
       "enabled": true
