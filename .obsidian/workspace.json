@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fghfgh.md",
+                "file": "02.Геймдизайн/Виденье.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура fghfgh"
+              "title": "Структура Виденье"
             }
           },
           {
@@ -261,7 +261,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "0dbd1a27ec50bac5",
+  "active": "39d26c19719d8fe3",
   "lastOpenFiles": [
     "fghfgh.md",
     "00.Проект/Сервер.md",
