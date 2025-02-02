@@ -93,10 +93,14 @@
             "id": "751326486dbcf0d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Навигация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Навигация"
             }
           }
         ],
@@ -192,11 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Навигация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Навигация"
             }
           },
           {
@@ -220,12 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Навигация.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Навигация"
             }
           },
           {
