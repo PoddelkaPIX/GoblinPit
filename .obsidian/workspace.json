@@ -93,10 +93,14 @@
             "id": "751326486dbcf0d8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "00.Проект/Сервер.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сервер"
             }
           }
         ],
@@ -220,12 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00.Проект/Сервер.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Сервер"
             }
           },
           {
@@ -273,13 +278,13 @@
   },
   "active": "751326486dbcf0d8",
   "lastOpenFiles": [
-    "Навигация.md",
-    "00.Проект/Моды/Simple Voice Chat.md",
-    "00.Проект/Моды/NoEmotecraft.md",
-    "00.Проект/Моды/Emotecraft.md",
-    "00.Проект/Статистика.md",
     "00.Проект/Анализ.md",
     "00.Проект/Сервер.md",
+    "00.Проект/Моды/Simple Voice Chat.md",
+    "00.Проект/Моды/Emotecraft.md",
+    "00.Проект/Моды/NoEmotecraft.md",
+    "Навигация.md",
+    "00.Проект/Статистика.md",
     "02.Геймдизайн/Системы/Рейды на боссов.md",
     "02.Геймдизайн/Системы/Караваны.md",
     "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-02 10.40.46.excalidraw.md",

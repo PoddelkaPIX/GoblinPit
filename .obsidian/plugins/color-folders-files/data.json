@@ -26,8 +26,8 @@
       "applyToFiles": true
     },
     "00.Проект": {
-      "backgroundColor": "#525625",
-      "textColor": "#e7ff33",
+      "backgroundColor": "#3f4130",
+      "textColor": "#e1ed87",
       "applyToSubfolders": true,
       "applyToFiles": true
     }
