@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Проект/Моды/Без названия.md",
+                "file": "Сервер.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Сервер"
             }
           }
         ],
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Проект/Моды/Без названия.md",
+                "file": "Сервер.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Без названия"
+              "title": "Структура Сервер"
             }
           },
           {
@@ -263,7 +263,7 @@
   },
   "active": "39d26c19719d8fe3",
   "lastOpenFiles": [
-    "00.Проект/Моды/Без названия.md",
+    "00.Проект/Моды/Ка.md",
     "Сервер.md",
     "00.Проект/Моды/Emotecraft.md",
     "02.Геймдизайн/Виденье.md",
