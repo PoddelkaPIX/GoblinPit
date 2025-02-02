@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00.Проект/Моды/Emotecraft.md",
+                "file": "00.Проект/Моды/Simple Voice Chat.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Emotecraft"
+              "title": "Simple Voice Chat"
             }
           }
         ],
@@ -224,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00.Проект/Моды/Emotecraft.md",
+                "file": "00.Проект/Моды/Simple Voice Chat.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Emotecraft"
+              "title": "Структура Simple Voice Chat"
             }
           },
           {
@@ -278,9 +278,9 @@
   },
   "active": "751326486dbcf0d8",
   "lastOpenFiles": [
-    "00.Проект/Сервер.md",
     "00.Проект/Моды/NoEmotecraft.md",
     "00.Проект/Моды/Emotecraft.md",
+    "00.Проект/Сервер.md",
     "00.Проект/Анализ.md",
     "00.Проект/Моды/Simple Voice Chat.md",
     "Навигация.md",
