@@ -21,9 +21,9 @@
       "left": 0
     },
     "iconInTabsEnabled": false,
-    "iconInTitleEnabled": false,
+    "iconInTitleEnabled": true,
     "iconInTitlePosition": "above",
-    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsBackgroundCheckEnabled": false,
