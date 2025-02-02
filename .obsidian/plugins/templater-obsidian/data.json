@@ -21,6 +21,10 @@
     {
       "folder": "Всякое/Команда",
       "template": "Всякое/Шаблоны/Работяга.md"
+    },
+    {
+      "folder": "ш",
+      "template": ""
     }
   ],
   "enable_file_templates": false,
