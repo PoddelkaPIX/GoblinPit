@@ -5,7 +5,7 @@
       "isBold": false,
       "applyToFiles": true,
       "applyToSubfolders": true,
-      "backgroundColor": "#364f4f"
+      "backgroundColor": "#273f3f"
     },
     "02.Геймдизайн/Системы": {
       "isBold": true,
@@ -20,8 +20,14 @@
       "isItalic": true
     },
     "01.Управление": {
-      "backgroundColor": "#3e7138",
+      "backgroundColor": "#3e593a",
       "textColor": "#47e64a",
+      "applyToSubfolders": true,
+      "applyToFiles": true
+    },
+    "00.Проект": {
+      "backgroundColor": "#525625",
+      "textColor": "#e7ff33",
       "applyToSubfolders": true,
       "applyToFiles": true
     }
