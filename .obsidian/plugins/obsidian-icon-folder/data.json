@@ -22,7 +22,7 @@
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": true,
-    "iconInTitlePosition": "above",
+    "iconInTitlePosition": "inline",
     "iconInFrontmatterEnabled": true,
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
@@ -32,7 +32,7 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false,
-    "useInternalPlugins": false
+    "useInternalPlugins": true
   },
   "00.Проект": {
     "iconName": "OcProject16",
