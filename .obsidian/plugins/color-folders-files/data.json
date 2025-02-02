@@ -2,9 +2,13 @@
   "styles": {
     "02.Геймдизайн": {
       "textColor": "#79f1e9",
-      "isBold": true,
+      "isBold": false,
       "applyToFiles": true,
       "applyToSubfolders": true
+    },
+    "02.Геймдизайн/Системы": {
+      "isBold": true,
+      "isItalic": true
     }
   },
   "presets": {},
