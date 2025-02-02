@@ -257,7 +257,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "iconic:Открыть свод правил": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
