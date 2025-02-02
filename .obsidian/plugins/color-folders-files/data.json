@@ -5,7 +5,7 @@
       "isBold": false,
       "applyToFiles": true,
       "applyToSubfolders": true,
-      "backgroundColor": "#faffff"
+      "backgroundColor": "#364f4f"
     },
     "02.Геймдизайн/Системы": {
       "isBold": true,
@@ -18,6 +18,12 @@
     "02.Геймдизайн/Виденье.md": {
       "isBold": true,
       "isItalic": true
+    },
+    "01.Управление": {
+      "backgroundColor": "#3e7138",
+      "textColor": "#47e64a",
+      "applyToSubfolders": true,
+      "applyToFiles": true
     }
   },
   "presets": {},
