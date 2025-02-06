@@ -121,6 +121,20 @@
             "id": "6d9095bec86c96ca",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Сервер/Вики/Роли/Шахтёры.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Шахтёры"
+            }
+          },
+          {
+            "id": "52e8bb7e4f5c9b10",
+            "type": "leaf",
+            "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
@@ -128,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,7 +174,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "руды",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -298,9 +312,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6d9095bec86c96ca",
+  "active": "52e8bb7e4f5c9b10",
   "lastOpenFiles": [
     "01.Сервер/Вики/Товары/Предметы для крафта.md",
+    "01.Сервер/Вики/Роли/Шахтёры.md",
     "01.Сервер/Вики/Товары/Продукты для готовки.md",
     "01.Сервер/Вики/Товары/Еда.md",
     "01.Сервер/Вики/Товары/Броня.md",
@@ -329,7 +344,6 @@
     "01.Сервер/00.Геймдизайн",
     "03.База данных/База данных.md",
     "О проекте.md",
-    "01.Сервер/Вики/Системы/Боевая система.md",
     "01.Сервер/Вики/Места",
     "01.Сервер/Вики/Товары",
     "01.Сервер/Вики/Услуги",
