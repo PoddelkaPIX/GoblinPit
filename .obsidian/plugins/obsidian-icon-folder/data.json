@@ -34,10 +34,6 @@
     "debugMode": false,
     "useInternalPlugins": true
   },
-  "00.Проект": {
-    "iconName": "OcProject16",
-    "iconColor": "#dad652"
-  },
   "01.Управление": {
     "iconName": "OcTasklist16",
     "iconColor": "#6bdd4b"
@@ -46,5 +42,9 @@
     "iconName": "LiGamepad2",
     "iconColor": "#55b2ec"
   },
-  "Всякое": "OcSidebarCollapse16"
+  "Всякое": "OcSidebarCollapse16",
+  "00.Контент": {
+    "iconName": "OcProject16",
+    "iconColor": "#dad652"
+  }
 }
