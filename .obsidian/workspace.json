@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "'Очки.md",
+                "file": "Очки_улучшения.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "'Очки"
+              "title": "Очки_улучшения"
             }
           }
         ],
@@ -210,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "'Очки.md",
+                "file": "Очки_улучшения.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура 'Очки"
+              "title": "Структура Очки_улучшения"
             }
           },
           {
@@ -267,7 +267,7 @@
     "'Очки.md",
     "Очки.md",
     "[[Очки.md",
-    "Очки улучшения.md",
+    "Очки_улучшения.md",
     "Сервер.md",
     "02.Геймдизайн/Вики/Персонаж.md",
     "02.Геймдизайн/Вики/Системы.md",
