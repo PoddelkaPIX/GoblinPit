@@ -109,12 +109,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/00.Пока хз куда закинуть/Товары.md",
+                "file": "01.Сервер/01.Геймдизайн/Разделы/Системы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Товары"
+              "title": "Системы"
             }
           }
         ],
@@ -150,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#1_21_1",
+                "query": "сис",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,8 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Всякое/00.Пока хз куда закинуть/Товары.md",
+                "file": "01.Сервер/01.Геймдизайн/Разделы/Системы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Товары"
+              "title": "Структура Системы"
             }
           },
           {
@@ -291,8 +292,8 @@
   },
   "active": "72e1c8bb0ff6e572",
   "lastOpenFiles": [
-    "Всякое/00.Пока хз куда закинуть/Услуги.md",
     "Всякое/00.Пока хз куда закинуть/Товары.md",
+    "Всякое/00.Пока хз куда закинуть/Услуги.md",
     "01.Сервер/Сервер.md",
     "Всякое/00.Пока хз куда закинуть",
     "01.Сервер/Товары",
