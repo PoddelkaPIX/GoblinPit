@@ -43,10 +43,6 @@
     "iconName": "OcProject16",
     "iconColor": "#dad652"
   },
-  "01.Сервер/01.Геймдизайн": {
-    "iconName": "LiGamepad2",
-    "iconColor": "#55b2ec"
-  },
   "02.Сайт": {
     "iconName": "IbWebsiteWithText",
     "iconColor": "#db5cd7"
@@ -54,5 +50,9 @@
   "03.База данных": {
     "iconName": "LiDatabase",
     "iconColor": "#d7582d"
+  },
+  "01.Сервер/00.Геймдизайн": {
+    "iconName": "LiGamepad2",
+    "iconColor": "#55b2ec"
   }
 }
