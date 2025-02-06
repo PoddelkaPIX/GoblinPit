@@ -107,10 +107,14 @@
             "id": "72e1c8bb0ff6e572",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "О проекте.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "О проекте"
             }
           }
         ],
@@ -234,12 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "О проекте.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура О проекте"
             }
           },
           {
