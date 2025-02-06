@@ -135,10 +135,14 @@
             "id": "52e8bb7e4f5c9b10",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01.Сервер/Разделы/Локации.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Локации"
             }
           }
         ],
@@ -215,6 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01.Сервер/Разделы/Локации.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Локации"
             }
           },
           {
@@ -233,11 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01.Сервер/Разделы/Локации.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Локации"
             }
           },
           {
@@ -261,12 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01.Сервер/Разделы/Локации.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Локации"
             }
           },
           {
@@ -312,6 +319,7 @@
   },
   "active": "52e8bb7e4f5c9b10",
   "lastOpenFiles": [
+    "00.Управление/00.Разделы/План.md",
     "01.Сервер/Вики/Товары/Еда.md",
     "01.Сервер/Вики/Предметы/Оружие/Одноручный меч.md",
     "01.Сервер/Вики/Предметы/Оружие/Лук.md",
