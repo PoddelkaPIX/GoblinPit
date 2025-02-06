@@ -38,10 +38,6 @@
     "iconName": "OcTasklist16",
     "iconColor": "#6bdd4b"
   },
-  "02.Геймдизайн": {
-    "iconName": "LiGamepad2",
-    "iconColor": "#55b2ec"
-  },
   "Всякое": "OcSidebarCollapse16",
   "03.Сайт": {
     "iconName": "IbWebsiteWithText",
@@ -54,5 +50,9 @@
   "05.База данных": {
     "iconName": "LiDatabase",
     "iconColor": "#d7582d"
+  },
+  "04.Сервер/02.Геймдизайн": {
+    "iconName": "LiGamepad2",
+    "iconColor": "#55b2ec"
   }
 }
