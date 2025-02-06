@@ -97,7 +97,7 @@
               "state": {
                 "file": "01.Управление/00.Разделы/План.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "План"
