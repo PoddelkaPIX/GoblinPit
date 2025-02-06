@@ -5,9 +5,24 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:01.Управление  ",
+      "color": {
+        "a": 1,
+        "rgb": 8183890
+      }
+    },
+    {
+      "query": "path:02.Геймдизайн  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431511
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1,
@@ -17,6 +32,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3240127518992769,
+  "scale": 0.324012751899277,
   "close": false
 }
