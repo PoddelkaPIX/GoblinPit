@@ -107,10 +107,14 @@
             "id": "72e1c8bb0ff6e572",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Всякое/00.Пока хз куда закинуть/Услуги.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Услуги"
             }
           }
         ],
@@ -234,12 +238,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Всякое/00.Пока хз куда закинуть/Услуги.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Услуги"
             }
           },
           {
