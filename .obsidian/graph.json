@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 5431511
       }
+    },
+    {
+      "query": "file:О проекте",
+      "color": {
+        "a": 1,
+        "rgb": 14759735
+      }
     }
   ],
   "collapse-display": true,
