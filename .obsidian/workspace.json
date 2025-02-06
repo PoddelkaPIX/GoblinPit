@@ -93,10 +93,14 @@
             "id": "c0a2f186c84ceca8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02.Геймдизайн/Вики/Роли/Лидер головорезов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лидер головорезов"
             }
           }
         ],
@@ -220,12 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Геймдизайн/Вики/Роли/Лидер головорезов.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Лидер головорезов"
             }
           },
           {
@@ -272,6 +277,7 @@
   },
   "active": "c0a2f186c84ceca8",
   "lastOpenFiles": [
+    "02.Геймдизайн/Вики/Роли/Лидер ремесленников.md",
     "02.Геймдизайн/Вики/Системы/Фракции.md",
     "02.Геймдизайн/Вики/Фракции/Лидер фракции.md",
     "О проекте.md",
