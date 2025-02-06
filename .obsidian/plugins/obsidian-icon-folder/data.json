@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDatabase",
+      "IbDatabse",
       "IbWebsiteWithText",
       "OcSidebarCollapse16",
-      "LiGamepad2",
-      "OcTasklist16",
-      "OcProject16"
+      "LiGamepad2"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,9 @@
   "04.Сервер": {
     "iconName": "OcProject16",
     "iconColor": "#dad652"
+  },
+  "05.База данных": {
+    "iconName": "LiDatabase",
+    "iconColor": "#d7582d"
   }
 }
