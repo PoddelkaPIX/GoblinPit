@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14759735
       }
+    },
+    {
+      "query": "path:00.Контент  ",
+      "color": {
+        "a": 1,
+        "rgb": 15394131
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +46,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.324012751899277,
+  "scale": 0.4542603368241574,
   "close": false
 }
