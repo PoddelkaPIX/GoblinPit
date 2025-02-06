@@ -121,10 +121,14 @@
             "id": "6d9095bec86c96ca",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "01.Сервер/Вики/Локации/Большой город.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Большой город"
             }
           }
         ],
@@ -248,12 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "01.Сервер/Вики/Локации/Большой город.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Большой город"
             }
           },
           {
