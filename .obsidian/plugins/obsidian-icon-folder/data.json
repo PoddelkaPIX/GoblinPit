@@ -50,9 +50,5 @@
   "03.База данных": {
     "iconName": "LiDatabase",
     "iconColor": "#d7582d"
-  },
-  "01.Сервер/00.Геймдизайн": {
-    "iconName": "LiGamepad2",
-    "iconColor": "#55b2ec"
   }
 }
