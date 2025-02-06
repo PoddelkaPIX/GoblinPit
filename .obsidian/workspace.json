@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "О проекте.md",
+                "file": "02.Сайт/Сайт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "О проекте"
+              "title": "Сайт"
             }
           }
         ],
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "О проекте.md",
+                "file": "02.Сайт/Сайт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для О проекте"
+              "title": "Обратные ссылки для Сайт"
             }
           },
           {
@@ -238,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "О проекте.md",
+                "file": "02.Сайт/Сайт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из О проекте"
+              "title": "Исходящие ссылки из Сайт"
             }
           },
           {
@@ -267,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "О проекте.md",
+                "file": "02.Сайт/Сайт.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура О проекте"
+              "title": "Структура Сайт"
             }
           },
           {
@@ -319,8 +319,8 @@
   },
   "active": "52e8bb7e4f5c9b10",
   "lastOpenFiles": [
-    "01.Сервер/Сервер.md",
     "О проекте.md",
+    "01.Сервер/Сервер.md",
     "01.Сервер/Разделы/Локации.md",
     "00.Управление/00.Разделы/План.md",
     "01.Сервер/Вики/Товары/Еда.md",
