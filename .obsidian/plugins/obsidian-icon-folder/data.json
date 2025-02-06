@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbWebsiteWithText",
       "OcSidebarCollapse16",
       "LiGamepad2",
       "OcTasklist16",
-      "OcProject16",
-      "FasDiagramProject"
+      "OcProject16"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -46,5 +46,9 @@
   "00.Контент": {
     "iconName": "OcProject16",
     "iconColor": "#dad652"
+  },
+  "03.Сайт": {
+    "iconName": "IbWebsiteWithText",
+    "iconColor": "#db5cd7"
   }
 }
