@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Сайт/Сайт.md",
+                "file": "00.Управление/Управление.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сайт"
+              "title": "Управление"
             }
           }
         ],
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Сайт/Сайт.md",
+                "file": "00.Управление/Управление.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Сайт"
+              "title": "Обратные ссылки для Управление"
             }
           },
           {
@@ -238,12 +238,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Сайт/Сайт.md",
+                "file": "00.Управление/Управление.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Сайт"
+              "title": "Исходящие ссылки из Управление"
             }
           },
           {
@@ -267,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Сайт/Сайт.md",
+                "file": "00.Управление/Управление.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Сайт"
+              "title": "Структура Управление"
             }
           },
           {
@@ -319,6 +319,7 @@
   },
   "active": "52e8bb7e4f5c9b10",
   "lastOpenFiles": [
+    "02.Сайт/Сайт.md",
     "О проекте.md",
     "01.Сервер/Сервер.md",
     "01.Сервер/Разделы/Локации.md",
@@ -346,7 +347,6 @@
     "01.Сервер/Вики/Роли/Повара.md",
     "01.Сервер/Вики/Роли/Портные.md",
     "01.Сервер/Вики/Роли/Разбойники - бандиты.md",
-    "01.Сервер/Вики/Роли/Разбойники - пираты.md",
     "01.Сервер/00.Геймдизайн/Вики/Роли/Лидеры",
     "01.Сервер/00.Геймдизайн/Вики/Роли",
     "01.Сервер/00.Геймдизайн/Вики",
