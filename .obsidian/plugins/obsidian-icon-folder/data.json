@@ -34,25 +34,25 @@
     "debugMode": false,
     "useInternalPlugins": true
   },
-  "01.Управление": {
+  "Всякое": "OcSidebarCollapse16",
+  "00.Управление": {
     "iconName": "OcTasklist16",
     "iconColor": "#6bdd4b"
   },
-  "Всякое": "OcSidebarCollapse16",
-  "03.Сайт": {
-    "iconName": "IbWebsiteWithText",
-    "iconColor": "#db5cd7"
-  },
-  "04.Сервер": {
+  "01.Сервер": {
     "iconName": "OcProject16",
     "iconColor": "#dad652"
   },
-  "05.База данных": {
-    "iconName": "LiDatabase",
-    "iconColor": "#d7582d"
-  },
-  "04.Сервер/02.Геймдизайн": {
+  "01.Сервер/01.Геймдизайн": {
     "iconName": "LiGamepad2",
     "iconColor": "#55b2ec"
+  },
+  "02.Сайт": {
+    "iconName": "IbWebsiteWithText",
+    "iconColor": "#db5cd7"
+  },
+  "03.База данных": {
+    "iconName": "LiDatabase",
+    "iconColor": "#d7582d"
   }
 }
