@@ -30,21 +30,9 @@
               "icon": "lucide-file",
               "title": "Vault"
             }
-          },
-          {
-            "id": "a9cf5545e45d81a2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Карта сервера"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Карта сервера"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -242,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9cf5545e45d81a2",
+  "active": "63b4aef1e866cf53",
   "lastOpenFiles": [
     "Vault.md",
     "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md",
