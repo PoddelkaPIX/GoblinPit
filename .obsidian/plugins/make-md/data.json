@@ -20,7 +20,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -41,7 +41,9 @@
     "01.Управление",
     "02.Сервер",
     "//03.Сайт",
-    "//Всякое/Всякое/Команда"
+    "//Всякое/Всякое/Команда",
+    "//02.Сервер",
+    "02.Сервер/02.Сервер/Разделы"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
