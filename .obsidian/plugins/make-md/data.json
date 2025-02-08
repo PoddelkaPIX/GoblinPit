@@ -37,7 +37,8 @@
   "expandedSpaces": [
     "/",
     "//Всякое/Всякое/Шаблоны",
-    "//02.Сервер"
+    "//02.Сервер",
+    "//02.Сервер/02.Сервер/Разделы"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

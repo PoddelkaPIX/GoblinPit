@@ -6,7 +6,22 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:02.Сервер  ",
+      "color": {
+        "a": 1,
+        "rgb": 5413856
+      }
+    },
+    {
+      "query": "path:02.Сервер/Разделы  ",
+      "color": {
+        "a": 1,
+        "rgb": 4751579
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.8,
