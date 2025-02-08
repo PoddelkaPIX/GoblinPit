@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "file:О проекте",
+      "query": "file:Vault",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -46,6 +46,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 160,
-  "scale": 0.3240127518992821,
+  "scale": 1.2517942900545254,
   "close": false
 }
