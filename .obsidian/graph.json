@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "эф",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -46,6 +46,6 @@
   "repelStrength": 8.28125,
   "linkStrength": 1,
   "linkDistance": 160,
-  "scale": 0.32401275189928336,
+  "scale": 0.6368652233654921,
   "close": false
 }
