@@ -37,10 +37,14 @@
             "id": "f2106a484470d53a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02.Сервер/Вики/Системы/Персонаж.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Персонаж"
             }
           }
         ],
@@ -146,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Сервер/Вики/Системы/Персонаж.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Персонаж"
             }
           },
           {
@@ -164,11 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Сервер/Вики/Системы/Персонаж.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Персонаж"
             }
           },
           {
@@ -192,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Сервер/Вики/Системы/Персонаж.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Персонаж"
             }
           },
           {
@@ -244,6 +251,7 @@
   },
   "active": "f2106a484470d53a",
   "lastOpenFiles": [
+    "02.Сервер/Вики/Системы/Атрибуты.md",
     "02.Сервер/Вики/Роли/Селяне.md",
     "02.Сервер/Вики/Роли/Селяне - скотоводы.md",
     "02.Сервер/Вики/Роли/Селяне - фермеры.md",
@@ -270,7 +278,6 @@
     "04.База данных/База данных.md",
     "О проекте.md",
     "Всякое/Tags",
-    "01.Управление/01.Управление.md",
     "04.База данных/Без названия.canvas",
     "00.Управление/Правила",
     "02.Сервер/Вики/Предметы/Оружие",
