@@ -1,3 +1,3 @@
 ---
-color: var(--mk-color-teal)
+color: var(--mk-color-base-50)
 ---

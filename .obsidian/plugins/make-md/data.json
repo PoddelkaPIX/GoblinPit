@@ -36,7 +36,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//Всякое/Всякое/Шаблоны"
+    "//Всякое/Всякое/Шаблоны",
+    "//02.Сервер"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
