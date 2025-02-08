@@ -1,4 +1,5 @@
 {
   "cssTheme": "Blue Topaz",
-  "interfaceFontFamily": "Comic Sans MS"
+  "interfaceFontFamily": "Comic Sans MS",
+  "nativeMenus": false
 }
