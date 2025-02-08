@@ -25,10 +25,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Всякое/Вложенные ресурсы/Изображения"
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Изображения"
+              "title": "Vault"
             }
           }
         ],
