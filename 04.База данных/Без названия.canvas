@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"1e296d84cf841422","x":-340,"y":-80,"width":250,"height":60,"type":"text","text":"Пол"},
+		{"id":"95ead4a7572b5c12","x":40,"y":-80,"width":250,"height":60,"type":"text","text":"Персонаж"}
+	],
+	"edges":[]
+}
