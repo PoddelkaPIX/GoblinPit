@@ -25,10 +25,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "03.Сайт"
+                "path": "02.Сервер"
               },
               "icon": "lucide-file",
-              "title": "03.Сайт"
+              "title": "02.Сервер"
             }
           }
         ],
