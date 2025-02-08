@@ -23,10 +23,12 @@
             "id": "21763702f88d2f7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "mk-space",
+              "state": {
+                "path": "02.Сервер"
+              },
+              "icon": "lucide-file",
+              "title": "02.Сервер"
             }
           }
         ],
@@ -114,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "О проекте.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для О проекте"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -133,12 +134,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "О проекте.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из О проекте"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -191,7 +191,23 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "e894af5d9eba55db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1aee033214f93799",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,7 +229,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "9e4db91a869dead0",
+  "active": "85d1cbf130f01f14",
   "lastOpenFiles": [
     "01.Управление/Untitled.md",
     "Vault.md",
