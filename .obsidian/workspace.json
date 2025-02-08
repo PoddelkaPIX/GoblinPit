@@ -11,13 +11,30 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
+              "icon": "lucide-file",
+              "title": "Vault"
+            }
+          },
+          {
+            "id": "21763702f88d2f7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04.База данных/База данных.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "База данных"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "04.База данных/База данных.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура База данных"
             }
           },
           {
@@ -199,17 +217,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6b9503940bbe44cc",
   "lastOpenFiles": [
-    "02.Сервер/02.Сервер.md",
+    "Vault.md",
     "О проекте.md",
+    "02.Сервер/02.Сервер.md",
     "Всякое/Tags",
     "04.База данных/04.База данных.md",
     "04.База данных/База данных.md",
     "01.Управление/01.Управление.md",
     "01.Управление/Управление.md",
     "02.Сервер/Сервер.md",
-    "Vault.md",
     "03.Сайт/03.Сайт.md",
     "04.База данных/Без названия.canvas",
     "02.Сервер/Вики/Системы/Фракции.md",
