@@ -37,9 +37,11 @@
             "id": "f2106a484470d53a",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "02.Сервер/Вики/Эффекты"
+                "file": "02.Сервер/Вики/Системы/Эффекты.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Эффекты"
@@ -148,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Сервер/Вики/Системы/Эффекты.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Эффекты"
             }
           },
           {
@@ -166,11 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Сервер/Вики/Системы/Эффекты.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Эффекты"
             }
           },
           {
@@ -194,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Сервер/Вики/Системы/Эффекты.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Эффекты"
             }
           },
           {
@@ -246,6 +251,7 @@
   },
   "active": "f2106a484470d53a",
   "lastOpenFiles": [
+    "02.Сервер/Вики/Системы/Эффекты.md",
     "02.Сервер/Вики/Фракции/.md",
     "02.Сервер/Вики/Эффекты/Эффекты.md",
     "02.Сервер/Вики/Эффекты",
@@ -272,7 +278,6 @@
     "02.Сервер/Разделы/Локации.md",
     "Всякое/Команда/Роман.md",
     "Всякое/Команда/Алексей.md",
-    "01.Управление/Untitled.md",
     "Всякое/Tags",
     "04.База данных/Без названия.canvas",
     "00.Управление/Правила",
