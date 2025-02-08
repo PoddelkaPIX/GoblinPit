@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "04.База данных/Таблицы"
+                "file": "04.База данных/Таблицы/Users.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Таблицы"
+              "title": "Users"
             }
           }
         ]
@@ -121,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04.База данных/Таблицы/Users.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Users"
             }
           },
           {
@@ -216,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b4aef1e866cf53",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "04.База данных/Таблицы/Users.md",
     "Vault.md",
     "04.База данных/Таблицы/Таблицы.md",
     "04.База данных/Таблицы",
@@ -253,7 +257,6 @@
     "02.Сервер/Системы/Товары/Магические свитки.md",
     "02.Сервер/Системы/Предметы/Магические свитки/Магические свитки.md",
     "02.Сервер/Системы/Товары/Артефакты.md",
-    "02.Сервер/Системы/Товары/Броня.md",
     "04.База данных/Без названия.canvas",
     "05.База данных/Без названия.canvas",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250202102939.png",
