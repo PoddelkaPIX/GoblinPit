@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:02.Сервер/Разделы  ",
+      "color": {
+        "a": 1,
+        "rgb": 5334256
+      }
+    },
+    {
       "query": "path:02.Сервер  ",
       "color": {
         "a": 1,
@@ -15,10 +22,10 @@
       }
     },
     {
-      "query": "path:02.Сервер/Разделы  ",
+      "query": "path:01.Управление  ",
       "color": {
         "a": 1,
-        "rgb": 4751579
+        "rgb": 11657298
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 160,
-  "scale": 0.2311103455065305,
+  "scale": 0.23111034550653067,
   "close": false
 }
