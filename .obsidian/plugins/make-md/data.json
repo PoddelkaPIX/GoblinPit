@@ -66,7 +66,9 @@
     "//Всякое/Всякое/Файлы для сервера",
     "//04.База данных/04.База данных/Таблицы",
     "//04.База данных",
-    "//02.Сервер"
+    "//02.Сервер",
+    "//01.Управление",
+    "//01.Управление/01.Управление/01.Разделы"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -104,7 +106,7 @@
   "enableDefaultSpaces": false,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "GoblinPit",
+  "systemName": "Home",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
