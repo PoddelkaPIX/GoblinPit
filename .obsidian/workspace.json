@@ -23,12 +23,10 @@
             "id": "bdeebc7ef0a2cb0c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Всякое/Файлы для сервера Sponge 1.16.5"
-              },
-              "icon": "lucide-file",
-              "title": "Файлы для сервера Sponge 1.16.5"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -229,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b4aef1e866cf53",
+  "active": "bdeebc7ef0a2cb0c",
   "lastOpenFiles": [
     "Всякое/Файлы для сервера Sponge 1.16.5/installer.log",
     "Всякое/Файлы для сервера Sponge 1.16.5/forge-1.16.5-36.2.5-installer.jar",
