@@ -37,12 +37,10 @@
             "id": "2a1ae7e79cbe5fc3",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Tags"
-              },
-              "icon": "lucide-file",
-              "title": "Tags"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
