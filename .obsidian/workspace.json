@@ -37,14 +37,10 @@
             "id": "f2106a484470d53a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Сервер/Системы/Донат.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Донат"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ],
@@ -150,7 +146,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Сервер/Системы/Донат.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Донат"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -169,12 +164,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Сервер/Системы/Донат.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Донат"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -198,13 +192,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Сервер/Системы/Донат.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Донат"
+              "title": "Структура"
             }
           },
           {
@@ -251,8 +244,8 @@
   },
   "active": "f2106a484470d53a",
   "lastOpenFiles": [
-    "02.Сервер/Системы/Семья.md",
     "02.Сервер/Системы/Донат.md",
+    "02.Сервер/Системы/Семья.md",
     "02.Сервер/История/Глобальные события/Глобальные события.md",
     "02.Сервер/История/Глобальные события",
     "02.Сервер/История/Квесты/Квесты.md",
