@@ -1,5 +1,7 @@
 ``` SQL
-CREATE TABLE Staff ( 
-id INT, 
-name VARCHAR(255) NOT NULL, position VARCHAR(30), birthday Date );
+CREATE TABLE Users ( 
+	id INT, 
+	login VARCHAR(255) NOT NULL, 
+	password VARCHAR(30), 
+);
 ```
