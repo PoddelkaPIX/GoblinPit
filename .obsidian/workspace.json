@@ -11,10 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "mk-space",
+              "state": {
+                "path": "02.Сервер"
+              },
+              "icon": "lucide-file",
+              "title": "02.Сервер"
             }
           }
         ]
