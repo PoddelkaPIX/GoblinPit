@@ -11,11 +11,9 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Vault.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
               "title": "Vault"
@@ -123,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Vault"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -221,9 +218,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Vault.md",
     "02.Сервер/02.Сервер.md",
     "02.Сервер/Системы/Системы.md",
-    "Vault.md",
     "Tags",
     "02.Сервер/Системы/Фракции/Роли/Роли.md",
     "02.Сервер/Системы/Фракции/Авантюристы.md",
