@@ -191,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,10 +209,11 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "21763702f88d2f7d",
+  "active": "9e4db91a869dead0",
   "lastOpenFiles": [
     "01.Управление/Untitled.md",
     "Vault.md",
