@@ -37,10 +37,14 @@
             "id": "f2106a484470d53a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "02.Сервер/Системы/Семья.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Семья"
             }
           }
         ],
@@ -146,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02.Сервер/Системы/Семья.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Семья"
             }
           },
           {
@@ -164,11 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02.Сервер/Системы/Семья.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Семья"
             }
           },
           {
@@ -192,12 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Сервер/Системы/Семья.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Семья"
             }
           },
           {
@@ -242,8 +249,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "6b9503940bbe44cc",
+  "active": "f2106a484470d53a",
   "lastOpenFiles": [
+    "02.Сервер/Системы/Семья.md",
     "02.Сервер/История/Глобальные события/Глобальные события.md",
     "02.Сервер/История/Глобальные события",
     "02.Сервер/История/Квесты/Квесты.md",
@@ -279,7 +287,6 @@
     "02.Сервер/Системы/Фракции/Фракции.md",
     "02.Сервер/Системы/Системы/Фракции.md",
     "02.Сервер/Системы/NPC",
-    "02.Сервер/Системы/Эффекты/Эффекты.md",
     "04.База данных/Без названия.canvas",
     "05.База данных/Без названия.canvas",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250202102939.png",
