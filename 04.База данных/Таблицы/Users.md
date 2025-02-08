@@ -2,6 +2,6 @@
 CREATE TABLE Users ( 
 	id INT, 
 	login VARCHAR(255) NOT NULL, 
-	password VARCHAR(30), 
+	password VARCHAR(30),
 );
 ```
