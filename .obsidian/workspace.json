@@ -25,10 +25,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "02.Сервер"
+                "path": "Всякое/Шаблоны"
               },
               "icon": "lucide-file",
-              "title": "02.Сервер"
+              "title": "Шаблоны"
             }
           }
         ],
@@ -107,8 +107,26 @@
     "type": "split",
     "children": [
       {
+        "id": "f58a9603968dfbc2",
+        "type": "tabs",
+        "dimension": 35.38461538461539,
+        "children": [
+          {
+            "id": "1aee033214f93799",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
         "id": "0b59c5ca30a0d89b",
         "type": "tabs",
+        "dimension": 64.61538461538461,
         "children": [
           {
             "id": "2a91a3baf021d17c",
@@ -190,23 +208,6 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "e894af5d9eba55db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1aee033214f93799",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          }
         ]
       }
     ],
@@ -229,10 +230,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "85d1cbf130f01f14",
+  "active": "21763702f88d2f7d",
   "lastOpenFiles": [
-    "01.Управление/Untitled.md",
     "Vault.md",
+    "01.Управление/Untitled.md",
     "03.Сайт/03.Сайт.md",
     "03.Сайт/Сайт.md",
     "04.База данных/04.База данных.md",
