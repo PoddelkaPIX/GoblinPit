@@ -11,12 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "01.Управление/02.Задачи"
+                "file": "Всякое/Моды/Untitled.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "02.Задачи"
+              "title": "Untitled"
             }
           }
         ]
@@ -121,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Всякое/Моды/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Untitled"
             }
           },
           {
@@ -216,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b4aef1e866cf53",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Всякое/Моды/Untitled.md",
     "02.Сервер/Системы/Фракции/Роли/Портные.md",
     "02.Сервер/Системы/Фракции/Роли/Кузнецы.md",
     "02.Сервер/Системы/Фракции/Роли/Алхимики.md",
@@ -245,7 +249,6 @@
     "Всякое/Моды/Distant Horizons.md",
     "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
     "Всякое/Моды/Fantasy Armor (Medieval Series).md",
-    "Всякое/Моды/Medieval Paintings.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209171707.png",
     "Всякое/Вложенные ресурсы/Pasted image 20250209170802.png",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165736.png",
