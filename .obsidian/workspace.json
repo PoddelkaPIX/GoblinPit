@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Плагины/Player Analytics.md",
+                "file": "Всякое/Плагины/LuckPerms .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Player Analytics"
+              "title": "LuckPerms"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Плагины/Player Analytics.md",
+                "file": "Всякое/Плагины/LuckPerms .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Player Analytics"
+              "title": "Обратные ссылки для LuckPerms"
             }
           },
           {
@@ -249,9 +249,9 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
-    "Всякое/Плагины/LuckPerms .md",
-    "Всякое/Плагины/Player Analytics.md",
     "Всякое/Плагины/InfernalisPlayerHeads.md",
+    "Всякое/Плагины/Player Analytics.md",
+    "Всякое/Плагины/LuckPerms .md",
     "Vault.md",
     "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Моды/Emotecraft.md",
