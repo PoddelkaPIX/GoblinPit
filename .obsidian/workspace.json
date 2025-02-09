@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/Custom NPC.md",
+                "file": "Всякое/Моды/EpicFight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom NPC"
+              "title": "EpicFight"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/Custom NPC.md",
+                "file": "Всякое/Моды/EpicFight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Custom NPC"
+              "title": "Обратные ссылки для EpicFight"
             }
           },
           {
@@ -221,14 +221,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Всякое/Моды/Simple Voice Chat.md",
-    "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Моды/Emotecraft.md",
+    "Всякое/Моды/Simple Voice Chat.md",
+    "Всякое/Моды/Custom NPC.md",
     "Всякое/Моды/EpicFight.md",
+    "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209151956.png",
     "Всякое/Моды/Моды.md",
-    "Всякое/Моды/Custom NPC.md",
     "Vault.md",
     "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md",
     "03.Лаунчер/03.Лаунчер.md",
