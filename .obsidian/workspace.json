@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
+                "file": "Всякое/Моды/Distant Horizons.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fantasy Weapons (Medieval Series)"
+              "title": "Distant Horizons"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
+                "file": "Всякое/Моды/Distant Horizons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Fantasy Weapons (Medieval Series)"
+              "title": "Обратные ссылки для Distant Horizons"
             }
           },
           {
@@ -250,9 +250,11 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
+    "Всякое/Вложенные ресурсы/Pasted image 20250209165736.png",
+    "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
+    "Всякое/Моды/Distant Horizons.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165224.png",
     "Всякое/Моды/Medieval Siege Machines.md",
-    "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165005.png",
     "Всякое/Моды/Fantasy Armor (Medieval Series).md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209164616.png",
@@ -284,8 +286,6 @@
     "Всякое/Моды/.md",
     "Всякое/Плагины/InfernalisPlayerHeads.md",
     "Всякое/Плагины/Player Analytics.md",
-    "Vault.md",
-    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209151956.png",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
     "04.База данных/Таблицы",
