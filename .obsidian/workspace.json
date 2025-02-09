@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/RPG-HUD.md",
+                "file": "Всякое/Моды/Antique Atlas 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RPG-HUD"
+              "title": "Antique Atlas 4"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/RPG-HUD.md",
+                "file": "Всякое/Моды/Antique Atlas 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для RPG-HUD"
+              "title": "Обратные ссылки для Antique Atlas 4"
             }
           },
           {
@@ -249,13 +249,15 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
-    "Всякое/Моды/RPG-HUDфыв.md",
-    "Всякое/Моды/RPG-HUD.md",
+    "Всякое/Моды/Custom NPC.md",
+    "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/NoEmotecraft.md",
+    "Всякое/Моды/RPG-HUD.md",
+    "Всякое/Моды/Antique Atlas 4.md",
+    "Всякое/Вложенные ресурсы/Pasted image 20250209163040.png",
+    "Всякое/Моды/RPG-HUDфыв.md",
     "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/EpicFight.md",
-    "Всякое/Моды/Emotecraft.md",
-    "Всякое/Моды/Custom NPC.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209162400.png",
     "Всякое/Плагины/LuckPerms .md",
     "Всякое/Моды/.md",
@@ -285,8 +287,6 @@
     "Tags",
     "02.Сервер/Системы/Фракции/Роли/Роли.md",
     "02.Сервер/Системы/Фракции/Авантюристы.md",
-    "02.Сервер/Системы/Фракции/Разбойники/Бандиты.md",
-    "02.Сервер/Системы/Фракции/Разбойники/Пираты.md",
     "02.Сервер/Системы/Фракции/Разбойники",
     "04.База данных/Без названия.canvas",
     "05.База данных/Без названия.canvas",
