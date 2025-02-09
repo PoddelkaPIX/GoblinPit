@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/Distant Horizons.md",
+                "file": "02.Сервер/Системы/Чат/Чат.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distant Horizons"
+              "title": "Чат"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/Distant Horizons.md",
+                "file": "02.Сервер/Системы/Чат/Чат.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Distant Horizons"
+              "title": "Обратные ссылки для Чат"
             }
           },
           {
@@ -250,9 +250,9 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
+    "Всякое/Моды/Distant Horizons.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165736.png",
     "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
-    "Всякое/Моды/Distant Horizons.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165224.png",
     "Всякое/Моды/Medieval Siege Machines.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165005.png",
@@ -281,7 +281,6 @@
     "Всякое/Моды/RPG-HUDфыв.md",
     "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/EpicFight.md",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209162400.png",
     "Всякое/Плагины/LuckPerms .md",
     "Всякое/Моды/.md",
     "Всякое/Плагины/InfernalisPlayerHeads.md",
