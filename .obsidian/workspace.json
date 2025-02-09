@@ -39,10 +39,14 @@
             "id": "61e5c39cce54993c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Всякое/Плагины/Chest Refill.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chest Refill"
             }
           }
         ],
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Всякое/Плагины/Chest Refill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Chest Refill"
             }
           },
           {
@@ -245,6 +250,7 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
+    "Всякое/Плагины/Chest Refill.md",
     "Всякое/Плагины/ChatManager.md",
     "Всякое/Шаблоны/Шаблоны.md",
     "Всякое/Шаблоны/Плагин - шаблон.md",
@@ -280,7 +286,6 @@
     "Всякое/Моды/Antique Atlas 4.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/NoEmotecraft.md",
-    "Всякое/Моды/RPG-HUD.md",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
     "04.База данных/Таблицы",
