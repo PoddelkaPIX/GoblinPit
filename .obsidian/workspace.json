@@ -39,10 +39,14 @@
             "id": "61e5c39cce54993c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Всякое/Моды/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -148,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Всякое/Моды/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Untitled"
             }
           },
           {
@@ -245,6 +250,8 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
+    "Всякое/Вложенные ресурсы/Pasted image 20250209164616.png",
+    "Всякое/Моды/Untitled.md",
     "Всякое/Моды/MedievalMusic.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209164414.png",
     "Всякое/Моды/Medieval Paintings.md",
@@ -277,7 +284,6 @@
     "02.Сервер/02.Сервер.md",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209151956.png",
-    "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/0b18217e39f07a349ba95e3c7d7fef72.png",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
