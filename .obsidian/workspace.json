@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/NoEmotecraft.md",
+                "file": "Всякое/Моды/RPG-HUD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NoEmotecraft"
+              "title": "RPG-HUD"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/NoEmotecraft.md",
+                "file": "Всякое/Моды/RPG-HUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для NoEmotecraft"
+              "title": "Обратные ссылки для RPG-HUD"
             }
           },
           {
@@ -249,9 +249,10 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
+    "Всякое/Моды/RPG-HUDфыв.md",
     "Всякое/Моды/RPG-HUD.md",
-    "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/NoEmotecraft.md",
+    "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/EpicFight.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/Custom NPC.md",

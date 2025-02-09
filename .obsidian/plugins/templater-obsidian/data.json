@@ -15,10 +15,6 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01.Управление/01.Задачи",
-      "template": "Шаблоны/Задача.md"
-    },
-    {
       "folder": "Всякое/Команда",
       "template": "Всякое/Шаблоны/Работяга - шаблон.md"
     },
