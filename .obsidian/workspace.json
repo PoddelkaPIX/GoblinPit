@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Всякое/Моды"
-              },
-              "icon": "lucide-file",
-              "title": "Моды"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -51,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#1_21_1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,14 +215,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Всякое/Моды/EpicFight.md",
     "Всякое/Моды/Emotecraft.md",
+    "Всякое/Моды/EpicFight.md",
+    "Всякое/Моды/Моды.md",
     "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/Custom NPC.md",
     "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209151956.png",
-    "Всякое/Моды/Моды.md",
     "Vault.md",
     "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md",
     "03.Лаунчер/03.Лаунчер.md",
