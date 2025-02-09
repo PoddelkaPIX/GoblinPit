@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Шаблоны/Плагин - шаблон.md",
+                "file": "Всякое/Плагины/QuestionsTime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Плагин - шаблон"
+              "title": "QuestionsTime"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Шаблоны/Плагин - шаблон.md",
+                "file": "Всякое/Плагины/QuestionsTime.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Плагин - шаблон"
+              "title": "Обратные ссылки для QuestionsTime"
             }
           },
           {
@@ -250,8 +250,9 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
-    "Всякое/Шаблоны/Мод - шаблон.md",
     "Всякое/Шаблоны/Плагин - шаблон.md",
+    "Всякое/Плагины/QuestionsTime.md",
+    "Всякое/Шаблоны/Мод - шаблон.md",
     "Всякое/Плагины/Spark.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209170802.png",
     "Всякое/Ресурс паки и шейдеры.md",
@@ -285,7 +286,6 @@
     "Всякое/Моды/RPG-HUD.md",
     "Всякое/Моды/RPG-HUDфыв.md",
     "Всякое/Моды/Simple Voice Chat.md",
-    "Всякое/Моды/EpicFight.md",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
     "04.База данных/Таблицы",
