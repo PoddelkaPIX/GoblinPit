@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Плагины/Падение головы, после убийства игрока.md",
+                "file": "Всякое/Плагины/InfernalisPlayerHeads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Падение головы, после убийства игрока"
+              "title": "InfernalisPlayerHeads"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault.md",
+                "file": "Всякое/Плагины/InfernalisPlayerHeads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "InfernalisPlayerHeads"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "Всякое/Плагины/InfernalisPlayerHeads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Vault"
+              "title": "Обратные ссылки для InfernalisPlayerHeads"
             }
           },
           {
@@ -250,8 +250,8 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
-    "Всякое/Плагины/Падение головы, после убийства игрока.md",
     "Vault.md",
+    "Всякое/Плагины/InfernalisPlayerHeads.md",
     "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/Custom NPC.md",
