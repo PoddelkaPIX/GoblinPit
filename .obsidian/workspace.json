@@ -11,14 +11,12 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Всякое/Моды/EpicFight.md",
-                "mode": "source",
-                "source": false
+                "path": "Всякое/Моды"
               },
               "icon": "lucide-file",
-              "title": "EpicFight"
+              "title": "Моды"
             }
           }
         ]
@@ -123,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/EpicFight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для EpicFight"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -221,10 +218,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Всякое/Моды/EpicFight.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/Custom NPC.md",
-    "Всякое/Моды/EpicFight.md",
     "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209151956.png",
