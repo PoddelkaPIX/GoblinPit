@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Всякое/Моды/EpicFight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EpicFight"
             }
           }
         ]
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Всякое/Моды/EpicFight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для EpicFight"
             }
           },
           {
@@ -215,6 +220,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Vault.md",
+    "02.Сервер/02.Сервер.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/EpicFight.md",
     "Всякое/Моды/Моды.md",
@@ -223,7 +230,6 @@
     "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209151956.png",
-    "Vault.md",
     "Всякое/Вложенные ресурсы/Диаграммы/Карта сервера.md",
     "03.Лаунчер/03.Лаунчер.md",
     "03.Лаунчер",
@@ -238,7 +244,6 @@
     "Всякое/Файлы для сервера Sponge 1.16.5/forge-1.16.5-36.2.5-installer.jar",
     "Всякое/Файлы для сервера Sponge 1.16.5/spongeforge-1.16.5-36.2.5-8.2.0-universal.jar",
     "Всякое/Файлы для сервера Sponge 1.16.5/jre-8u441-windows-i586-iftw.exe",
-    "02.Сервер/02.Сервер.md",
     "Всякое/Файлы для сервера Sponge 1.16.5/Файлы для сервера Sponge 1.16.5.md",
     "Всякое/Файлы для сервера Sponge 1.16.5",
     "02.Сервер/Системы/Системы.md",
