@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault.md",
+                "file": "Всякое/Плагины/Падение головы, после убийства игрока.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vault"
+              "title": "Падение головы, после убийства игрока"
             }
           }
         ],
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "Всякое/Плагины/Падение головы, после убийства игрока.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Vault"
+              "title": "Обратные ссылки для Падение головы, после убийства игрока"
             }
           },
           {
@@ -234,13 +234,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63b4aef1e866cf53",
+  "active": "5e1a0c6e87af8858",
   "lastOpenFiles": [
+    "Vault.md",
     "Всякое/Моды/NoEmotecraft.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/Custom NPC.md",
     "Всякое/Моды/EpicFight.md",
-    "Vault.md",
     "02.Сервер/02.Сервер.md",
     "Всякое/Моды/Моды.md",
     "Всякое/Моды/Simple Voice Chat.md",
