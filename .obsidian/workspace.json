@@ -13,56 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/NoEmotecraft.md",
+                "file": "Vault.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NoEmotecraft"
-            }
-          },
-          {
-            "id": "5e1a0c6e87af8858",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Всякое/Плагины/InfernalisPlayerHeads.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "InfernalisPlayerHeads"
-            }
-          },
-          {
-            "id": "61e5c39cce54993c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Всякое/Плагины/MineRefill.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MineRefill"
-            }
-          },
-          {
-            "id": "62753eae0da0623c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "03.Лаунчер"
-              },
-              "icon": "lucide-file",
-              "title": "03.Лаунчер"
+              "title": "Vault"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Vault"
             }
           },
           {
@@ -259,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "62753eae0da0623c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "05.База данных/Таблицы.md",
     "Vault.md",
     "Всякое/Плагины/MineRefill.md",
     "Всякое/Плагины/Chest Refill.md",
@@ -296,7 +257,6 @@
     "Всякое/Моды/Particular.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209163453.png",
     "Всякое/Моды/Sounds.md",
-    "Всякое/Моды/Antique Atlas 4.md",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
     "04.База данных/Таблицы",
