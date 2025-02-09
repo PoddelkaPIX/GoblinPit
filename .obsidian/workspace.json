@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Плагины/QuestionsTime.md",
+                "file": "Всякое/Шаблоны/Плагин - шаблон.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QuestionsTime"
+              "title": "Плагин - шаблон"
             }
           }
         ],
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Плагины/QuestionsTime.md",
+                "file": "Всякое/Шаблоны/Плагин - шаблон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для QuestionsTime"
+              "title": "Обратные ссылки для Плагин - шаблон"
             }
           },
           {
@@ -250,8 +250,8 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
-    "Всякое/Шаблоны/Плагин - шаблон.md",
     "Всякое/Плагины/QuestionsTime.md",
+    "Всякое/Шаблоны/Плагин - шаблон.md",
     "Всякое/Шаблоны/Мод - шаблон.md",
     "Всякое/Плагины/Spark.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209170802.png",
