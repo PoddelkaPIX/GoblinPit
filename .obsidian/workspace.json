@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Моды/Custom NPC.md",
+                "file": "Всякое/Моды/NoEmotecraft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Custom NPC"
+              "title": "NoEmotecraft"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Моды/Custom NPC.md",
+                "file": "Всякое/Моды/NoEmotecraft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Custom NPC"
+              "title": "Обратные ссылки для NoEmotecraft"
             }
           },
           {
@@ -221,8 +221,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Всякое/Ресурс паки и шейдеры.md",
+    "Всякое/Моды/Simple Voice Chat.md",
     "Всякое/Моды/Custom NPC.md",
+    "Всякое/Ресурс паки и шейдеры.md",
     "Vault.md",
     "05.База данных/Таблицы.md",
     "Всякое/Плагины/MineRefill.md",
@@ -256,7 +257,6 @@
     "01.Управление/01.Управление.md",
     "Всякое/Моды/Particular.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209163453.png",
-    "Всякое/Моды/Sounds.md",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
     "04.База данных/Таблицы",
