@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Ресурс паки и шейдеры.md",
+                "file": "02.Сервер/Системы/Фракции/Роли/Портные.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ресурс паки и шейдеры"
+              "title": "Портные"
             }
           }
         ]
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Ресурс паки и шейдеры.md",
+                "file": "02.Сервер/Системы/Фракции/Роли/Портные.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Ресурс паки и шейдеры"
+              "title": "Обратные ссылки для Портные"
             }
           },
           {
@@ -221,6 +221,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "02.Сервер/Системы/Фракции/Роли/Кузнецы.md",
+    "02.Сервер/Системы/Фракции/Роли/Алхимики.md",
+    "02.Сервер/Системы/Фракции/Разбойники/Пираты.md",
+    "Всякое/Ресурс паки и шейдеры.md",
     "02.Сервер/Системы/Локации/Заброшенный город .md",
     "02.Сервер/Системы/Локации/Село 1.md",
     "02.Сервер/Системы/Локации/Большой город.md",
@@ -233,7 +237,6 @@
     "Всякое/Плагины/LuckPerms .md",
     "Всякое/Плагины/Player Analytics.md",
     "Всякое/Плагины/InfernalisPlayerHeads.md",
-    "Всякое/Ресурс паки и шейдеры.md",
     "Всякое/Моды/Immersive UI.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209200720.png",
     "Всякое/Моды/Medieval Siege Machines.md",
@@ -246,9 +249,6 @@
     "Всякое/Моды/Fantasy Armor (Medieval Series).md",
     "Всякое/Моды/Medieval Paintings.md",
     "Всякое/Моды/Medieval Deco.md",
-    "Всякое/Моды/MedievalMusic.md",
-    "Всякое/Моды/Particular.md",
-    "Всякое/Моды/RPG-HUD.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209171707.png",
     "Всякое/Вложенные ресурсы/Pasted image 20250209170802.png",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165736.png",
