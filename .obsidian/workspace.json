@@ -39,14 +39,12 @@
             "id": "61e5c39cce54993c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Всякое/Ресурс паки и шейдеры.md",
-                "mode": "source",
-                "source": false
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Ресурс паки и шейдеры"
+              "title": "Vault"
             }
           }
         ],
@@ -152,7 +150,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Ресурс паки и шейдеры.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Ресурс паки и шейдеры"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -250,8 +247,8 @@
   },
   "active": "61e5c39cce54993c",
   "lastOpenFiles": [
-    "02.Сервер/Системы/Чат/Чат.md",
     "Всякое/Ресурс паки и шейдеры.md",
+    "02.Сервер/Системы/Чат/Чат.md",
     "Всякое/Моды/Distant Horizons.md",
     "Всякое/Вложенные ресурсы/Pasted image 20250209165736.png",
     "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
