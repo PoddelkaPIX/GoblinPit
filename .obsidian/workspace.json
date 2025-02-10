@@ -95,8 +95,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e02bf0a81387b3a",
+  "active": "0dbd1a27ec50bac5",
   "lastOpenFiles": [
     "Всякое/Вложенные ресурсы/Pasted Image 20250210135236_367.png",
     "Всякое/Вложенные ресурсы/Pasted Image 20250210135209_809.png",
