@@ -11,12 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-10 13.39.53.excalidraw"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -120,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Drawing 2025-02-10 13.39.53.excalidraw"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -218,11 +215,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Всякое/Вложенные ресурсы/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
+    "Всякое/Вложенные ресурсы/Изображения/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
+    "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134020_009.png",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "Vault.md",
-    "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210140213_631.png",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210135236_367.png",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210135209_809.png",
@@ -231,7 +228,6 @@
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210135034_172.png",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210135006_137.png",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134935_542.png",
-    "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134922_187.png",
     "Всякое/Моды/Target Dummy.md",
     "02.Сервер/Системы/Фракции/Роли/Портные.md",
     "02.Сервер/Системы/Фракции/Роли/Кузнецы.md",
