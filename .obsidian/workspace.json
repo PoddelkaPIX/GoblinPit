@@ -11,17 +11,28 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Vault.md",
-                "mode": "source",
-                "source": false
+                "file": "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209200720.png"
               },
-              "icon": "lucide-file",
-              "title": "Vault"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250209200720"
+            }
+          },
+          {
+            "id": "5e02bf0a81387b3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-10 13.39.53.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vault.md",
+                "file": "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Vault"
+              "title": "Обратные ссылки для Drawing 2025-02-10 13.39.53.excalidraw"
             }
           },
           {
@@ -219,10 +230,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5e02bf0a81387b3a",
   "lastOpenFiles": [
+    "Всякое/Вложенные ресурсы/Pasted Image 20250210134020_009.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209200720.png",
+    "Всякое/Вложенные ресурсы/Диаграммы/Drawing 2025-02-10 13.39.53.excalidraw.md",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209162400.png",
+    "Vault.md",
     "Всякое/Моды/Target Dummy.md",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209213859.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209213859.png",
     "02.Сервер/Системы/Фракции/Роли/Портные.md",
     "02.Сервер/Системы/Фракции/Роли/Кузнецы.md",
     "02.Сервер/Системы/Фракции/Роли/Алхимики.md",
@@ -233,7 +249,7 @@
     "02.Сервер/Системы/Локации/Большой город.md",
     "02.Сервер/Системы/Локации/Болото скверны.md",
     "Всякое/Моды/Chisel Reborn.md",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209212043.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209212043.png",
     "Всякое/Плагины/ChatManager.md",
     "Всякое/Плагины/QuestionsTime.md",
     "Всякое/Плагины/Spark.md",
@@ -241,21 +257,17 @@
     "Всякое/Плагины/Player Analytics.md",
     "Всякое/Плагины/InfernalisPlayerHeads.md",
     "Всякое/Моды/Immersive UI.md",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209200720.png",
     "Всякое/Моды/Medieval Siege Machines.md",
     "Всякое/Моды/Antique Atlas 4.md",
     "Всякое/Моды/Sounds.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/NoEmotecraft.md",
-    "Всякое/Моды/Distant Horizons.md",
-    "Всякое/Моды/Fantasy Weapons (Medieval Series).md",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209171707.png",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209170802.png",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209165736.png",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209165224.png",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209165005.png",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209164616.png",
-    "Всякое/Вложенные ресурсы/Pasted image 20250209164414.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209171707.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209170802.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209165736.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209165224.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209165005.png",
+    "Всякое/Вложенные ресурсы/Изображения/Pasted image 20250209164616.png",
     "03.Лаунчер",
     "Всякое/Вложенные ресурсы/Изображения/Не подтверждено 22423.~",
     "04.База данных/Таблицы",
