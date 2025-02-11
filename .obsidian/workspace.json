@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Всякое/Шаблоны/Плагин - шаблон.md",
+                "file": "Всякое/Моды/Simple Voice Chat.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Плагин - шаблон"
+              "title": "Simple Voice Chat"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Всякое/Шаблоны/Плагин - шаблон.md",
+                "file": "Всякое/Моды/Simple Voice Chat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Плагин - шаблон"
+              "title": "Обратные ссылки для Simple Voice Chat"
             }
           },
           {
@@ -246,14 +246,16 @@
   },
   "active": "1c55c21407b1af2b",
   "lastOpenFiles": [
-    "Всякое/Шаблоны/Задача - шаблон.md",
+    "Всякое/Моды/Custom NPC.md",
+    "Всякое/Шаблоны/Мод - шаблон.md",
+    "Всякое/Шаблоны/Работяга - шаблон.md",
     "Всякое/Шаблоны/Плагин - шаблон.md",
+    "Всякое/Шаблоны/Задача - шаблон.md",
     "Всякое/Моды/NoEmotecraft.md",
     "03.Лаунчер/03.Лаунчер.md",
     "Vault.md",
     "Всякое/Моды/Emotecraft.md",
     "Всякое/Моды/EpicFight.md",
-    "Всякое/Моды/Custom NPC.md",
     "Всякое/Моды/Simple Voice Chat.md",
     "02.Сервер/Системы/Системы.md",
     "02.Сервер/Системы/Фракции/Фракции.md",
@@ -270,8 +272,6 @@
     "02.Сервер/Системы/Боевая система/Боевая система.md",
     "02.Сервер/Системы/Особенности/Особенности.md",
     "02.Сервер/Системы/Атрибуты/Атрибуты.md",
-    "02.Сервер/02.Сервер.md",
-    "02.Сервер/Строения/Строения.md",
     "02.Сервер/Строения",
     "Всякое/Вложенные ресурсы/Изображения/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134020_009.png",
