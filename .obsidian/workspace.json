@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Планы.md",
+                "file": "02.Сервер/Планы.md",
                 "mode": "source",
                 "source": false
               },
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Планы.md",
+                "file": "02.Сервер/Планы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,6 +231,8 @@
   },
   "active": "f3b3d7de00e15769",
   "lastOpenFiles": [
+    "02.Сервер/Системы/Системы.md",
+    "02.Сервер/Планы.md",
     "02.Сервер/02.Сервер.md",
     "Планы.md",
     "02.Сервер/Локации/Локации.md",
@@ -255,8 +257,6 @@
     "Всякое/Плагины/Chest Refill.md",
     "Всякое/Плагины/MineRefill.md",
     "Всякое/Шаблоны/Мод - шаблон.md",
-    "Всякое/Шаблоны/Работяга - шаблон.md",
-    "Всякое/Шаблоны/Плагин - шаблон.md",
     "02.Сервер/Строения",
     "Всякое/Вложенные ресурсы/Изображения/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134020_009.png",
