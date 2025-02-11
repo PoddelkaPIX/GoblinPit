@@ -35,10 +35,14 @@
             "id": "1c55c21407b1af2b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Всякое/Плагины/LuckPerms .md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LuckPerms"
             }
           }
         ],
@@ -144,6 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Всякое/Плагины/LuckPerms .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для LuckPerms"
             }
           },
           {
@@ -241,6 +246,13 @@
   },
   "active": "1c55c21407b1af2b",
   "lastOpenFiles": [
+    "Всякое/Плагины/QuestionsTime.md",
+    "Всякое/Плагины/LuckPerms .md",
+    "Всякое/Плагины/Player Analytics.md",
+    "Всякое/Плагины/MineRefill.md",
+    "Всякое/Плагины/Chest Refill.md",
+    "Всякое/Плагины/ChatManager.md",
+    "Всякое/Шаблоны/Плагин - шаблон.md",
     "Всякое/Моды/Target Dummy.md",
     "Всякое/Моды/Chisel Reborn.md",
     "Всякое/Моды/Immersive UI.md",
@@ -259,14 +271,7 @@
     "Всякое/Моды/Custom NPC.md",
     "Всякое/Шаблоны/Мод - шаблон.md",
     "Всякое/Шаблоны/Работяга - шаблон.md",
-    "Всякое/Шаблоны/Плагин - шаблон.md",
     "Всякое/Шаблоны/Задача - шаблон.md",
-    "Всякое/Моды/NoEmotecraft.md",
-    "03.Лаунчер/03.Лаунчер.md",
-    "Vault.md",
-    "02.Сервер/Системы/Системы.md",
-    "02.Сервер/Системы/Фракции/Фракции.md",
-    "02.Сервер/Системы/Чат/Чат.md",
     "02.Сервер/Строения",
     "Всякое/Вложенные ресурсы/Изображения/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134020_009.png",
