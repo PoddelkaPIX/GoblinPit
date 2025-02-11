@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Работяга",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,8 +239,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "418fa6f95bb42a5f",
+  "active": "1c55c21407b1af2b",
   "lastOpenFiles": [
+    "Всякое/Команда/Роман.md",
+    "Всякое/Команда/Алексей.md",
     "02.Сервер/Локации/Село 1.md",
     "02.Сервер/Локации/Локации.md",
     "02.Сервер/Локации/Заброшенный город .md",
@@ -265,8 +267,6 @@
     "Всякое/Шаблоны/Плагин - шаблон.md",
     "Всякое/Шаблоны/Задача - шаблон.md",
     "Всякое/Моды/Target Dummy.md",
-    "Всякое/Моды/Chisel Reborn.md",
-    "Всякое/Моды/Immersive UI.md",
     "02.Сервер/Строения",
     "Всякое/Вложенные ресурсы/Изображения/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134020_009.png",
