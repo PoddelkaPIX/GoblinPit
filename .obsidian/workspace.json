@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Сервер/Системы/Фракции/Роли/Роли.md",
+                "file": "02.Сервер/Локации/Заброшенный город .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Роли"
+              "title": "Заброшенный город"
             }
           }
         ],
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Сервер/Системы/Фракции/Роли/Роли.md",
+                "file": "02.Сервер/Локации/Заброшенный город .md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Роли"
+              "title": "Обратные ссылки для Заброшенный город"
             }
           },
           {
@@ -245,6 +245,7 @@
   },
   "active": "1c55c21407b1af2b",
   "lastOpenFiles": [
+    "02.Сервер/Системы/Фракции/Роли/Роли.md",
     "Всякое/Вложенные ресурсы/Вложенные ресурсы.md",
     "05.База данных/05.База данных.md",
     "05.База данных/Таблицы.md",
@@ -270,7 +271,6 @@
     "Всякое/Моды/Medieval Siege Machines.md",
     "Всякое/Моды/Fantasy Armor (Medieval Series).md",
     "Всякое/Моды/Medieval Paintings.md",
-    "Всякое/Моды/Medieval Deco.md",
     "02.Сервер/Строения",
     "Всякое/Вложенные ресурсы/Изображения/Flux_Dev_A_sprawling_topdown_view_of_a_Minecraft_server_map_sh_1.jpeg",
     "Всякое/Вложенные ресурсы/Изображения/Pasted Image 20250210134020_009.png",
