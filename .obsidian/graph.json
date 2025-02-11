@@ -25,7 +25,7 @@
       "query": "path:01.Управление  ",
       "color": {
         "a": 1,
-        "rgb": 5562450
+        "rgb": 2327073
       }
     },
     {
@@ -46,6 +46,6 @@
   "repelStrength": 10.8854166666667,
   "linkStrength": 1,
   "linkDistance": 160,
-  "scale": 0.4505081176757828,
+  "scale": 0.450508117675783,
   "close": false
 }
